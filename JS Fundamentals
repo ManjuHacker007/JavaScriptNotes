@@ -1,0 +1,8 @@
+if/else statement structure:
+
+
+if (conditino) {
+  // code execution when condition TRUE
+} else {
+  // code execution when condition FALSE (optional)
+}
